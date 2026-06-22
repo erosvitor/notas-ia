@@ -1,9 +1,23 @@
 # Prompts para ChatGPT
 
-## Perguntas diretas
-- Dado o documento em anexo, gerar 10 perguntas para uma entrevista/prova
-- Dado o documento em anexo, gerar um resumo contendo 20 linhas
-- Dado o documento em anexo, gerar duas versões, uma em Inglês e a outra em Espanhol
+## Geral
+- Utilize o documento em anexo e gere 10 perguntas para uma prova nível fácil.
+- Utilize o documento em anexo e gere um resumo contendo 20 linhas.
+- Utilize o documento em anexo e gere duas versões, uma em Inglês e a outra em Espanhol.
+- Gere uma lista contendo 10 exercícios com gabarito sobre aritmética básica.
+
+## Banco de dados
+- Utilize o diagrama em anexo e gere um script SQL.
+- Utilize o script SQL em anexo e gere um diagrama entidade relacionamento.
+- Crie um script SQL para inserir 100 registros aleatórios na tabela abaixo.
+
+## Fluxogramas
+- Utilize o fluxograma em anexo e gere numa sequencia de passos na forma descritiva.
+- Converta o fluxograma em anexo numa lista de instruções.
+
+## Imagens
+- Extrair os códigos UUID da imagem em anexo.
+- Utilizando o texto em anexo, gerar uma imagem para um post no Linkedin. 
 
 ## Interação
 

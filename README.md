@@ -29,7 +29,6 @@ Para que uma inteligência artificial possa resolver problemas, ela precisa ser 
 Na automação tradicional o processo repetitivo não requer tomada de decisão. Na automação com IA ocorre tomada de decisões durante o processo, por exemplo, chatbots, veículos autônomos, detecção de fraudes, algoritmo de trading.
 
 ## Aplicações para IA
-
 * Finanças
   * Prevenção de fraude
   * Análise de crédito
@@ -52,7 +51,6 @@ Na automação tradicional o processo repetitivo não requer tomada de decisão.
   * Análise de sentimento
 
 ## Ferramentas
-
 * ChatGPT - Assistente para geração de textos.
 * Gemini - Assistente para geração de textos.
 * Copilot - Assistente para desenvolvimento de software.
@@ -71,3 +69,59 @@ Na automação tradicional o processo repetitivo não requer tomada de decisão.
 * Monic.ai - Assistente para criação de materiais de estudos personalizados.
 * AskYourPDF - Assistente para interação com documentos PDF.
 * Consensus - Assistente para resumir artigos científicos.
+
+## Fornecedores de semicondutores
+- Intel (Gaude)
+- AMD (MI300)
+- Nvidia (GPU H100 e H200)
+- Google (TPU)
+- GROQ (LPU)
+
+## Fornecedores de infraestrutura
+- Amazon (AWS)
+- Microsoft (Azure)
+- Google (GCP)
+
+## Fornecedores de modelos LLM
+
+### Modelos proprietários
+- OpenAI (GTP)
+- Anthropic (Claude)
+- Google (Gemini)
+
+### Modelos abertos
+- Meta (LlaMa)
+- Mistral AI (Mistral)
+- DeepSeek (DeepSeek)
+
+## Roteadores de modelos
+- OpenRouter
+- Hugging Face
+
+## IA Preditiva
+
+### Objetivo
+Analisar dados do passado para estimar probabilidades e tendências futuras.
+
+### Casos de uso
+Previsão de vendas, detecção de fraudes bancárias, diagnóstico médico baseado em sintomas, e recomendação de produtos (ex: streamings ou e-commerce)
+
+### Principais ferramentas
+- BI e Visualização (Tableau Software e MS Power BI)
+- CRM e Vendas (Salesforce Einstein e Akkio)
+- Ciência de dados (Data Robot, Alteryx AI Platform)
+- Detecção de fraudes (IBM Watson Studio)
+
+## IA Generativa
+
+### Objetivo
+Produzir conteúdo inédito a partir de comandos (prompt) em linguagem natural.
+
+### Casos de uso
+Redação de emails, criação de imagens, resumo de documentos, e desenvolvimento de software.
+
+### Principais ferramentas
+- Geração de texto (ChatGPT, Gemini, Claude)
+- Geração de imagens (MidJourney, Adobe Firefly, DALL-E da OpenAI)
+- Geração de vídeo e áudio (Runway Gen-3, Suno AI)
+

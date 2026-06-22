@@ -1,6 +1,46 @@
 
 # Spring Boot Java project
 
+## Download Spring Boot Java project skeleton structure
+
+- Run following command in terminal to download Spring Boot project skeleton structure.
+
+```shell
+curl https://start.spring.io/starter.zip \
+  -d type=gradle-project \
+  -d language=java
+  -d bootVersion=4.0.6 \
+  -d groupId=com.companyxpto \
+  -d artifactId=projectxpto \
+  -d packageName=com.companyxpto.projectxpto \
+  -d packaging=jar \
+  -d javaVersion=21 \
+  -d dependencies=web,validation,data-jpa,h2,mysql,actuator \
+  -o starter.zip
+```
+
+## Unzip downloaded file
+
+- Run following command in terminal to unzip the downloaded file.
+
+```shell
+unzip starter.zip -d ./projectxpto
+```
+
+- Run following command in terminal to delete the downloaded file.
+
+```shell
+rm -f starter.zip
+```
+
+## Change to project directory
+
+- Run following command in terminal to change the directory for project root.
+
+```shell
+cd projectxpto
+```
+
 ## Remove unused files
 
 - Remove the `static` and `template` folders from the `src/main/resource` directory.
