@@ -11,9 +11,10 @@
 - Gere uma lista contendo 10 problemas contextualizados, com gabarito, nível difícil, para um público de concursos federais, sobre aritmética básica.
 
 ## Banco de dados
-- Utilize o diagrama em anexo e gere um script SQL.
+- Utilize o diagrama em anexo e gere um script SQL para MySQL.
 - Utilize o script SQL em anexo e gere um diagrama entidade relacionamento.
-- Crie um script SQL para inserir 100 registros aleatórios na tabela abaixo.
+- Converta o script MySQL para PostgreSQL.
+- Crie um script SQL para inserir 100 registros na tabela abaixo.
 
 ## Fluxogramas
 - Utilize o fluxograma em anexo e gere numa sequencia de passos na forma descritiva.
