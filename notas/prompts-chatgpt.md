@@ -4,7 +4,11 @@
 - Utilize o documento em anexo e gere 10 perguntas para uma prova nível fácil.
 - Utilize o documento em anexo e gere um resumo contendo 20 linhas.
 - Utilize o documento em anexo e gere duas versões, uma em Inglês e a outra em Espanhol.
+- Gere uma lista contendo 10 exercícios sobre aritmética básica.
 - Gere uma lista contendo 10 exercícios com gabarito sobre aritmética básica.
+- Gere uma lista contendo 10 exercícios, com gabarito, nível difícil, sobre aritmética básica.
+- Gere uma lista contendo 10 exercícios, com gabarito, nível difícil, para um público de concursos federais, sobre aritmética básica.
+- Gere uma lista contendo 10 problemas contextualizados, com gabarito, nível difícil, para um público de concursos federais, sobre aritmética básica.
 
 ## Banco de dados
 - Utilize o diagrama em anexo e gere um script SQL.
